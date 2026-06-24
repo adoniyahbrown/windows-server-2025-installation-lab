@@ -53,8 +53,6 @@ Set the Administrator password
 Complete setup and sign in
 
 📸 Screenshots
-(These links will work once your screenshots are uploaded into the screenshots folder.)
-
 markdown
 ![Accept or Decline](screenshots/Accept%20or%20Decline.png)
 ![Customize Settings](screenshots/Customize%20Settings.png)
@@ -65,6 +63,7 @@ markdown
 ![Select Language Settings](screenshots/Select%20Language%20Settings.png)
 ![Select Location to install Windows Server](screenshots/Select%20Location%20to%20install%20Windows%20Server.png)
 ![Select Setup Option](screenshots/Select%20Setup%20Option.png)
+
 🐞 Troubleshooting
 I did not encounter any issues during the installation of Windows Server 2025.
 The setup process completed successfully without errors.
