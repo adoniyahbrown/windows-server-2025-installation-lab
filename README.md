@@ -53,7 +53,7 @@ Set the Administrator password
 Complete setup and sign in
 
 📸 Screenshots
-markdown
+
 ![Accept or Decline](screenshots/Accept%20or%20Decline.png)
 ![Customize Settings](screenshots/Customize%20Settings.png)
 ![Installing Windows Server](screenshots/Installing%20Windows%20Server.png)
